@@ -64,12 +64,12 @@ function YubiKeyGuideEnUS() {
     {
       text: 'YubiKey Guide',
       items: [
-        { text: 'Introduction', link: '/zh_CN/YubiKey-Guide/introduction' },
-        { text: 'Preparation', link: '/zh_CN/YubiKey-Guide/preparation' },
-        { text: 'Reset Yubikey', link: '/zh_CN/YubiKey-Guide/reset-yubikey' },
-        { text: 'Configure YubiKey', link: '/zh_CN/YubiKey-Guide/configure-yubikey' },
-        { text: 'YubiKey & OpenPGP Combined use', link: '/zh_CN/YubiKey-Guide/yubiKey-with-openpgp' },
-        { text: 'Reference', link: '/zh_CN/YubiKey-Guide/references' }
+        { text: 'Introduction', link: '/YubiKey-Guide/introduction' },
+        { text: 'Preparation', link: '/YubiKey-Guide/preparation' },
+        { text: 'Reset Yubikey', link: '/YubiKey-Guide/reset-yubikey' },
+        { text: 'Configure YubiKey', link: '/YubiKey-Guide/configure-yubikey' },
+        { text: 'YubiKey & OpenPGP Combined use', link: '/YubiKey-Guide/yubiKey-with-openpgp' },
+        { text: 'Reference', link: '/YubiKey-Guide/references' }
       ]
    }
   ]

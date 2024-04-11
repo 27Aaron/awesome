@@ -8,8 +8,8 @@ hero:
   tagline: " "
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: YubiKey Guide
+      link: /YubiKey-Guide/introduction
     - theme: alt
       text: GitHub
       link: https://github.com/27Aaron/knowledge
