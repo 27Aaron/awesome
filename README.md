@@ -30,7 +30,4 @@
 
 
 
-
-
-
 [nvim icon]: ./assets/neovim.svg
