@@ -1,4 +1,4 @@
-<h2 align="center">:notebook_with_decorative_cover: Aaron Knowledge Graph :notebook_with_decorative_cover:</h2>
+<h2 align="center">:sunglasses: Awesome lists :sunglasses:</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
@@ -13,5 +13,3 @@
         <img src="https://img.shields.io/github/commit-activity/y/27Aaron/knowledge?style=for-the-badge&logo=upptime&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
   </a>
 </p>
-
-# Everything I know
