@@ -26,6 +26,7 @@
 - [![Neovim][nvim icon]](https://github.com/windwp/nvim-autopairs) [autopairs](https://github.com/windwp/nvim-autopairs) - Autopairs for neovim written in lua
 - [![Neovim][nvim icon]](https://github.com/numToStr/Comment.nvim) [comment](https://github.com/numToStr/Comment.nvim) - 🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [![Neovim][nvim icon]](https://github.com/hrsh7th/nvim-cmp) [cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
+- [![Neovim][nvim icon]](https://github.com/lukas-reineke/indent-blankline.nvim) [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim
 - [![Neovim][nvim icon]](https://github.com/nvim-lualine/lualine.nvim) [lualine](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [![Neovim][nvim icon]](https://github.com/folke/noice.nvim) [noice](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments](https://github.com/folke/todo-comments.nvim) - ✅ Highlight, list and search todo comments in your projects
