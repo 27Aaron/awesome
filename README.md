@@ -1,4 +1,6 @@
-<h2 align="center">:sunglasses: Awesome lists :sunglasses:</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Awesome%20Lists-FC60A8.svg?style=for-the-badge&logo=Awesome-Lists&logoColor=white" width="150" alt="Image">
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
