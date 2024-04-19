@@ -22,8 +22,8 @@
 
 
 ## Neovim
-- [![Neovim][nvim icon]](https://github.com/windwp/nvim-autopairs) [nvim-autopairs](https://github.com/windwp/nvim-autopairs) - Autopairs for neovim written in lua
 
+- [![Neovim][nvim icon]](https://github.com/windwp/nvim-autopairs) [autopairs](https://github.com/windwp/nvim-autopairs) - Autopairs for neovim written in lua
 
 
 
