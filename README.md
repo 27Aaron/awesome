@@ -28,6 +28,7 @@
 - [![Neovim][nvim icon]](https://github.com/hrsh7th/nvim-cmp) [cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [![Neovim][nvim icon]](https://github.com/lukas-reineke/indent-blankline.nvim) [indent-blankline](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim
 - [![Neovim][nvim icon]](https://github.com/mrjones2014/legendary.nvim) [legendary](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
+- [![Neovim][nvim icon]](https://github.com/mfussenegger/nvim-lint) [lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [![Neovim][nvim icon]](https://github.com/nvim-lualine/lualine.nvim) [lualine](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [![Neovim][nvim icon]](https://github.com/folke/noice.nvim) [noice](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments](https://github.com/folke/todo-comments.nvim) - ✅ Highlight, list and search todo comments in your projects
