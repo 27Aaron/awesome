@@ -32,6 +32,7 @@
 - [![Neovim][nvim icon]](https://github.com/neovim/nvim-lspconfig) [lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [![Neovim][nvim icon]](https://github.com/nvimdev/lspsaga.nvim) [lspsaga](https://github.com/nvimdev/lspsaga.nvim) - improve neovim lsp experience
 - [![Neovim][nvim icon]](https://github.com/nvim-lualine/lualine.nvim) [lualine](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
+- [![Neovim][nvim icon]](https://github.com/williamboman/mason.nvim) [mason](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [![Neovim][nvim icon]](https://github.com/folke/noice.nvim) [noice](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments](https://github.com/folke/todo-comments.nvim) - ✅ Highlight, list and search todo comments in your projects
 
