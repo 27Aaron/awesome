@@ -24,7 +24,8 @@
 ## Neovim
 
 - [![Neovim][nvim icon]](https://github.com/windwp/nvim-autopairs) [autopairs](https://github.com/windwp/nvim-autopairs) - Autopairs for neovim written in lua
-- [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments](https://github.com/folke/todo-comments.nvim) - Highlight, list and search todo comments in your projects
+- [![Neovim][nvim icon]](https://github.com/folke/noice.nvim) [noice](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+- [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments](https://github.com/folke/todo-comments.nvim) - ✅ Highlight, list and search todo comments in your projects
 
 
 
