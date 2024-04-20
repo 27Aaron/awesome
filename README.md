@@ -35,6 +35,7 @@
 - [![Neovim][nvim icon]](https://github.com/williamboman/mason.nvim) [move](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [![Neovim][nvim icon]](https://github.com/fedepujol/move.nvim) [mason](https://github.com/fedepujol/move.nvim) - Gain the power to move lines and blocks and auto-indent them!
 - [![Neovim][nvim icon]](https://github.com/folke/noice.nvim) [noice](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+- [![Neovim][nvim icon]](https://github.com/kylechui/nvim-surround) [surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.
 - [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments](https://github.com/folke/todo-comments.nvim) - ✅ Highlight, list and search todo comments in your projects
 
 
