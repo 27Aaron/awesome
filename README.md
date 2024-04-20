@@ -39,6 +39,7 @@
 - [![Neovim][nvim icon]](https://github.com/nvim-telescope/telescope.nvim) [telescope](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [![Neovim][nvim icon]](https://github.com/xiyaowong/transparent.nvim) [transparent](https://github.com/xiyaowong/transparent.nvim) - Remove all background colors to make nvim transparent
 - [![Neovim][nvim icon]](https://github.com/nvim-tree/nvim-tree.lua) [tree](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
+- [![Neovim][nvim icon]](https://github.com/nvim-treesitter/nvim-treesitter) [treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments](https://github.com/folke/todo-comments.nvim) - ✅ Highlight, list and search todo comments in your projects
 
 
