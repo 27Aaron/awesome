@@ -37,6 +37,7 @@
 - [![Neovim][nvim icon]](https://github.com/folke/noice.nvim) [noice](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [![Neovim][nvim icon]](https://github.com/kylechui/nvim-surround) [surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.
 - [![Neovim][nvim icon]](https://github.com/nvim-telescope/telescope.nvim) [telescope](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
+
 - [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments](https://github.com/folke/todo-comments.nvim) - ✅ Highlight, list and search todo comments in your projects
 
 
