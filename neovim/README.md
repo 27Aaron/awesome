@@ -1,6 +1,7 @@
 ## Neovim
 
 - [![Neovim][nvim icon]](https://github.com/numToStr/Comment.nvim) [comment.nvim](https://github.com/numToStr/Comment.nvim) - 🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
+- [![Neovim][nvim icon]](https://github.com/Exafunction/codeium.vim) [codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [![Neovim][nvim icon]](https://github.com/lukas-reineke/indent-blankline.nvim) [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim
 - [![Neovim][nvim icon]](https://github.com/folke/lazy.nvim) [lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [![Neovim][nvim icon]](https://github.com/mrjones2014/legendary.nvim) [legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
