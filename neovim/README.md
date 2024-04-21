@@ -1,5 +1,11 @@
 ## Neovim
 
+- [Plugins](#Plugins)
+- [Color Scheme](#color-scheme)
+
+
+## Plugins
+
 - [![Neovim][nvim icon]](https://github.com/numToStr/Comment.nvim) [comment.nvim](https://github.com/numToStr/Comment.nvim) - 🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [![Neovim][nvim icon]](https://github.com/Exafunction/codeium.vim) [codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [![Neovim][nvim icon]](https://github.com/lukas-reineke/indent-blankline.nvim) [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim
@@ -22,6 +28,8 @@
 - [![Neovim][nvim icon]](https://github.com/xiyaowong/transparent.nvim) [transparent.nvim](https://github.com/xiyaowong/transparent.nvim) - Remove all background colors to make nvim transparent
 
 
+## Color Scheme
+- [![Neovim][nvim icon]](https://github.com/sainnhe/everforest) [everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 
 
 [nvim icon]: ../assets/neovim.svg
