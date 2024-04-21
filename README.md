@@ -41,7 +41,7 @@
 - [![Neovim][nvim icon]](https://github.com/nvim-tree/nvim-tree.lua) [tree](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [![Neovim][nvim icon]](https://github.com/nvim-treesitter/nvim-treesitter) [treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments](https://github.com/folke/todo-comments.nvim) - ✅ Highlight, list and search todo comments in your projects
-
+- [![Neovim][nvim icon]](https://github.com/folke/lazy.nvim) [lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 
 
 
