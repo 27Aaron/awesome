@@ -25,6 +25,7 @@
 - [![Neovim][nvim icon]](https://github.com/nvim-tree/nvim-tree.lua) [nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [![Neovim][nvim icon]](https://github.com/nvim-treesitter/nvim-treesitter) [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [![Neovim][nvim icon]](https://github.com/rcarriga/nvim-notify) [nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
+- [![Neovim][nvim icon]](https://github.com/rcarriga/nvim-notify) [neodev.nvim](https://github.com/rcarriga/nvim-notify) - 💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅ Highlight, list and search todo comments in your projects
 - [![Neovim][nvim icon]](https://github.com/nvim-telescope/telescope.nvim) [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [![Neovim][nvim icon]](https://github.com/xiyaowong/transparent.nvim) [transparent.nvim](https://github.com/xiyaowong/transparent.nvim) - Remove all background colors to make nvim transparent
