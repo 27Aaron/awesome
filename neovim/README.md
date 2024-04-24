@@ -15,6 +15,7 @@
 - [![Neovim][nvim icon]](https://github.com/nvim-lualine/lualine.nvim) [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [![Neovim][nvim icon]](https://github.com/williamboman/mason.nvim) [mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [![Neovim][nvim icon]](https://github.com/fedepujol/move.nvim) [move.nvim](https://github.com/fedepujol/move.nvim) - Gain the power to move lines and blocks and auto-indent them!
+- [![Neovim][nvim icon]](https://github.com/iamcco/markdown-preview.nvim) [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [![Neovim][nvim icon]](https://github.com/folke/noice.nvim) [noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [![Neovim][nvim icon]](https://github.com/windwp/nvim-autopairs) [nvim-autopairs](https://github.com/windwp/nvim-autopairs) - Autopairs for neovim written in lua
 - [![Neovim][nvim icon]](https://github.com/hrsh7th/nvim-cmp) [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
