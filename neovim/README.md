@@ -40,6 +40,8 @@
 - [![Neovim][nvim icon]](https://github.com/nvim-treesitter/nvim-treesitter-context) [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [![Neovim][nvim icon]](https://github.com/onsails/lspkind.nvim) [lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
 - [![Neovim][nvim icon]](https://github.com/NvChad/nvim-colorizer.lua) [nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - vscode-like pictograms for neovim lsp completion items
+- [![Neovim][nvim icon]](https://github.com/nvim-neotest/neotest) [neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
+
 
 
 
