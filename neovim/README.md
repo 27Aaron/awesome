@@ -35,6 +35,9 @@
 - [![Neovim][nvim icon]](https://github.com/rebelot/kanagawa.nvim) [kanagawa](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 - [![Neovim][nvim icon]](https://github.com/EdenEast/nightfox.nvim) [nightfox](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [![Neovim][nvim icon]](https://github.com/scottmckendry/cyberdream.nvim) [cyberdream](https://github.com/scottmckendry/cyberdream.nvim) - 🤖💤 High-contrast, Futuristic & Vibrant Coloursheme for Neovim
+- [![Neovim][nvim icon]](https://github.com/rose-pine/neovim) [rose-pine](https://github.com/rose-pine/neovim) - Soho vibes for Neovim
+
+
 
 
 [nvim icon]: ../assets/neovim.svg
