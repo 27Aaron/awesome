@@ -37,6 +37,8 @@
 - [![Neovim][nvim icon]](https://github.com/nvim-telescope/telescope.nvim) [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [![Neovim][nvim icon]](https://github.com/xiyaowong/transparent.nvim) [transparent.nvim](https://github.com/xiyaowong/transparent.nvim) - Remove all background colors to make nvim transparent
 - [![Neovim][nvim icon]](https://github.com/akinsho/toggleterm.nvim) [toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
+- [![Neovim][nvim icon]](https://github.com/nvim-treesitter/nvim-treesitter-context) [nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
+
 
 
 
