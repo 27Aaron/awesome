@@ -44,7 +44,7 @@
 - [![Neovim][nvim icon]](https://github.com/NeogitOrg/neogit) [neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [![Neovim][nvim icon]](https://github.com/ray-x/lsp_signature.nvim) [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
 - [![Neovim][nvim icon]](https://github.com/echasnovski/mini.nvim) [mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
-
+- [![Neovim][nvim icon]](https://github.com/ahmedkhalf/project.nvim) [project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 
 
 
