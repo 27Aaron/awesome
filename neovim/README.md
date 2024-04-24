@@ -8,6 +8,7 @@
 
 - [![Neovim][nvim icon]](https://github.com/numToStr/Comment.nvim) [comment.nvim](https://github.com/numToStr/Comment.nvim) - 🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [![Neovim][nvim icon]](https://github.com/Exafunction/codeium.vim) [codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
+- [![Neovim][nvim icon]](https://github.com/sindrets/diffview.nvim) [diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [![Neovim][nvim icon]](https://github.com/lukas-reineke/indent-blankline.nvim) [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim
 - [![Neovim][nvim icon]](https://github.com/folke/lazy.nvim) [lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [![Neovim][nvim icon]](https://github.com/mrjones2014/legendary.nvim) [legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
@@ -27,7 +28,7 @@
 - [![Neovim][nvim icon]](https://github.com/rcarriga/nvim-notify) [nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [![Neovim][nvim icon]](https://github.com/folke/neodev.nvim) [neodev.nvim](https://github.com/folke/neodev.nvim) - 💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [![Neovim][nvim icon]](https://github.com/mfussenegger/nvim-dap) [nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
-- [![Neovim][nvim icon]](https://github.com/mfussenegger/nvim-dap) [nvim-dap](https://github.com/mfussenegger/nvim-dap) - A UI for nvim-dap
+- [![Neovim][nvim icon]](https://github.com/rcarriga/nvim-dap-ui) [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
 - [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅ Highlight, list and search todo comments in your projects
 - [![Neovim][nvim icon]](https://github.com/nvim-telescope/telescope.nvim) [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [![Neovim][nvim icon]](https://github.com/xiyaowong/transparent.nvim) [transparent.nvim](https://github.com/xiyaowong/transparent.nvim) - Remove all background colors to make nvim transparent
