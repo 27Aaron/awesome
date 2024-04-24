@@ -42,7 +42,7 @@
 - [![Neovim][nvim icon]](https://github.com/NvChad/nvim-colorizer.lua) [nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - vscode-like pictograms for neovim lsp completion items
 - [![Neovim][nvim icon]](https://github.com/nvim-neotest/neotest) [neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
 - [![Neovim][nvim icon]](https://github.com/NeogitOrg/neogit) [neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
-
+- [![Neovim][nvim icon]](https://github.com/ray-x/lsp_signature.nvim) [lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) - LSP signature hint as you type
 
 
 
