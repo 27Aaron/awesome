@@ -31,6 +31,7 @@
 - [![Neovim][nvim icon]](https://github.com/folke/neodev.nvim) [neodev.nvim](https://github.com/folke/neodev.nvim) - 💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [![Neovim][nvim icon]](https://github.com/mfussenegger/nvim-dap) [nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [![Neovim][nvim icon]](https://github.com/rcarriga/nvim-dap-ui) [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui) - A UI for nvim-dap
+- [![Neovim][nvim icon]](https://github.com/nvim-neo-tree/neo-tree.nvim) [neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [![Neovim][nvim icon]](https://github.com/folke/todo-comments.nvim) [todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - ✅ Highlight, list and search todo comments in your projects
 - [![Neovim][nvim icon]](https://github.com/nvim-telescope/telescope.nvim) [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [![Neovim][nvim icon]](https://github.com/xiyaowong/transparent.nvim) [transparent.nvim](https://github.com/xiyaowong/transparent.nvim) - Remove all background colors to make nvim transparent
