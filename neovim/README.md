@@ -10,6 +10,7 @@
 - [![Neovim][nvim icon]](https://github.com/romgrk/barbar.nvim) [barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [![Neovim][nvim icon]](https://github.com/numToStr/Comment.nvim) [comment.nvim](https://github.com/numToStr/Comment.nvim) - 🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [![Neovim][nvim icon]](https://github.com/Exafunction/codeium.vim) [codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
+- [![Neovim][nvim icon]](https://github.com/stevearc/conform.nvim) [conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [![Neovim][nvim icon]](https://github.com/sindrets/diffview.nvim) [diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [![Neovim][nvim icon]](https://github.com/lukas-reineke/indent-blankline.nvim) [indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim
 - [![Neovim][nvim icon]](https://github.com/folke/lazy.nvim) [lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
