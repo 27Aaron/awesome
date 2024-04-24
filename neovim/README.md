@@ -31,6 +31,8 @@
 ## Color Scheme
 - [![Neovim][nvim icon]](https://github.com/sainnhe/everforest) [everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
 - [![Neovim][nvim icon]](https://github.com/catppuccin/nvim) [catppuccin](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+- [![Neovim][nvim icon]](https://github.com/rebelot/kanagawa.nvim) [kanagawa](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+
 
 
 
